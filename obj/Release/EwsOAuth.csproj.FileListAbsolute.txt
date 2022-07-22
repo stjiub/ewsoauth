@@ -1,0 +1,64 @@
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\EwsOAuth.dll.config
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\EwsOAuth.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\EwsOAuth.pdb
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Identity.Client.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Security.AccessControl.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Security.Permissions.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.pdb
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.xml
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\Microsoft.Identity.Client.xml
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Security.AccessControl.xml
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Security.Permissions.xml
+C:\Users\dystopia\Downloads\ewsoauth-main\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\dystopia\Downloads\ewsoauth-main\obj\Release\EwsOAuth.csproj.AssemblyReference.cache
+C:\Users\dystopia\Downloads\ewsoauth-main\obj\Release\EwsOAuth.csproj.CoreCompileInputs.cache
+C:\Users\dystopia\Downloads\ewsoauth-main\obj\Release\EwsOAuth.csproj.CopyComplete
+C:\Users\dystopia\Downloads\ewsoauth-main\obj\Release\EwsOAuth.dll
+C:\Users\dystopia\Downloads\ewsoauth-main\obj\Release\EwsOAuth.pdb
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\EwsOAuth.dll
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\EwsOAuth.pdb
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Identity.Client.dll
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.pdb
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.xml
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\Microsoft.Identity.Client.xml
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\obj\Release\EwsOAuth.csprojAssemblyReference.cache
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\obj\Release\EwsOAuth.csproj.CoreCompileInputs.cache
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\obj\Release\EwsOAuth.csproj.CopyComplete
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\obj\Release\EwsOAuth.dll
+C:\Users\iriffle\OneDrive - NWESD\Documents\projects\ewsoauth-main\obj\Release\EwsOAuth.pdb
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\EwsOAuth.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\EwsOAuth.pdb
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Exchange.WebServices.Auth.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Exchange.WebServices.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Identity.Client.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Configuration.ConfigurationManager.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Security.AccessControl.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Security.Permissions.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Security.Principal.Windows.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Exchange.WebServices.pdb
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Exchange.WebServices.xml
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Exchange.WebServices.Auth.pdb
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Exchange.WebServices.Auth.xml
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\Microsoft.Identity.Client.xml
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Configuration.ConfigurationManager.xml
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Security.AccessControl.xml
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Security.Permissions.xml
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\bin\Release\System.Security.Principal.Windows.xml
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\obj\Release\EwsOAuth.csprojAssemblyReference.cache
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\obj\Release\EwsOAuth.csproj.CoreCompileInputs.cache
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\obj\Release\EwsOAuth.csproj.CopyComplete
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\obj\Release\EwsOAuth.dll
+\\esd189.org\dfs\wpkg\AdminScripts\exchange\EwsOAuth\obj\Release\EwsOAuth.pdb
